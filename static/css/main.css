@@ -1,5 +1,11 @@
 html, body {margin: 0; padding: 0;}
-body {background: black; color: white;}
+body {background: Tan; color: white;}
+header{
+	display: inline-block;
+	outline: 1px, red;
+	width: 100%;
+	font: 2em, red;
+}
 :link, :visited {text-decoration: none; color: cyan;}
 #controls :active {color: #888 !important;}
 #controls :focus {outline: 1px dotted #CCC;}
