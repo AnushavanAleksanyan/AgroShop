@@ -1,0 +1,5 @@
+html, body {margin: 0; padding: 0;}
+body {background: black; color: white;}
+:link, :visited {text-decoration: none; color: cyan;}
+#controls :active {color: #888 !important;}
+#controls :focus {outline: 1px dotted #CCC;}
